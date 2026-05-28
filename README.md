@@ -1,5 +1,5 @@
 
-# Xforge Config Generator
+# XForge Config Generator
 
 A high-performance proxy configuration matrix generator for transforming and multiplying proxy configurations across multiple hosts and ports.
 
